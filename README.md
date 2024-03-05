@@ -53,69 +53,69 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
-        Passion for Technology: I am super curious about how technology works and about how technology is going to change our lives in the near future. If we already have self driving cars now, imagine what the world will look like in the next 10 years. I wanna be part of those who bring in the change, simplifying the lives of mankind.
+        - Passion for Technology: I am super curious about how technology works and about how technology is going to change our lives in the near future. If we already have self driving cars now, imagine what the world will look like in the next 10 years. I wanna be part of those who bring in the change, simplifying the lives of mankind.
         Problem-Solving: I see problems as an opportunity to learn and grow, problems allow me the opportunity to bring in solutions.
 
     - What values are important to you in a work environment?
-        Respect
-        Integrity
-        Innovation
-        Collaboration
-        Continuous Learning
+        - Respect
+        - Integrity
+        - Innovation
+        - Collaboration
+        - Continuous Learning
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
-        Front-end Developer
-        UI Developer
-        UX Developer
-        Web Designer
+        - Front-end Developer
+        - UI Developer
+        - UX Developer
+        - Web Designer
 
     - Note any particular areas that piqued your interest.
-        Front - end Developer because I am like a digital architect who builds the parts of a website or an app that people interact with directly. My job is to make sure everything looks good, works smoothly, and gives users a great experience when they visit a website or use an app.
+        - Front - end Developer because I am like a digital architect who builds the parts of a website or an app that people interact with directly. My job is to make sure everything looks good, works smoothly, and gives users a great experience when they visit a website or use an app.
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
-         Front-end development offers me a platform to leverage my technical skills, pursue my interest in technology, apply my problem-solving abilities, and uphold my values of respect, integrity, innovation, collaboration, and continuous learning. This alignment suggests that pursuing a career in front-end development could be both professionally and personally rewarding.
+         - Front-end development offers me a platform to leverage my technical skills, pursue my interest in technology, apply my problem-solving abilities, and uphold my values of respect, integrity, innovation, collaboration, and continuous learning. This alignment suggests that pursuing a career in front-end development could be both professionally and personally rewarding.
 
     - Identify any gaps or areas for further exploration.
-        JavaScript Proficiency
-        Framework Familiarity
-        Performance Optimization
-        Accessibility
-        Responsive Design
-        Version Control Systems
+        - JavaScript Proficiency
+        - Framework Familiarity
+        - Performance Optimization
+        - Accessibility
+        - Responsive Design
+        - Version Control Systems
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
-        Specific: Secure a Junior front-end developer position in a small company.
-        Measurable: Apply to at least 5 relevant job openings per week.
-        Achievable: Enhance proficiency in JavaScript frameworks (React, Vue.js) and responsive design principles.
-        Relevant: Gain practical experience through personal projects and contribute to open-source repositories to strengthen my portfolio.
-        Time-bound: Land a  Junior front-end developer role within the next 12 months.
+        - Specific: Secure a Junior front-end developer position in a small company.
+        - Measurable: Apply to at least 5 relevant job openings per week.
+        - Achievable: Enhance proficiency in JavaScript frameworks (React, Vue.js) and responsive design principles.
+        - Relevant: Gain practical experience through personal projects and contribute to open-source repositories to strengthen my portfolio.
+        - Time-bound: Land a  Junior front-end developer role within the next 12 months.
 
     - Explain the rationale behind each goal.
-        Specific: I aim to secure a Junior front-end developer role in a small company within the next 6 months to kickstart my career in web development.
+        - Specific: I aim to secure a Junior front-end developer role in a small company within the next 6 months to kickstart my career in web development.
 
-        Measurable: By applying to at least 5 relevant job openings per week, I ensure that I maintain an active job search and increase my chances of finding suitable opportunities.
+        - Measurable: By applying to at least 5 relevant job openings per week, I ensure that I maintain an active job search and increase my chances of finding suitable opportunities.
 
-        Achievable: By focusing on enhancing my proficiency in JavaScript frameworks and responsive design principles, I believe I can qualify for Junior front-end developer roles and position myself as a competitive candidate in the job market.
+        - Achievable: By focusing on enhancing my proficiency in JavaScript frameworks and responsive design principles, I believe I can qualify for Junior front-end developer roles and position myself as a competitive candidate in the job market.
 
-        Relevant: By prioritizing practical experience through personal projects and contributions to open-source repositories, I aim to build a portfolio that showcases my skills and expertise, making me a desirable candidate for Junior front-end developer positions.
+        - Relevant: By prioritizing practical experience through personal projects and contributions to open-source repositories, I aim to build a portfolio that showcases my skills and expertise, making me a desirable candidate for Junior front-end developer positions.
 
-        Time-bound: Setting a timeframe of 12 months provides me with a clear deadline to work towards, ensuring that I stay focused and motivated to achieve my goal within a reasonable timeframe.
+        - Time-bound: Setting a timeframe of 12 months provides me with a clear deadline to work towards, ensuring that I stay focused and motivated to achieve my goal within a reasonable timeframe.
 
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-        In the long run, I want to become really good at building websites and apps, focusing on making them look great and easy to use. I aim to lead teams and work on exciting projects where I can use my skills to create amazing stuff that will help people solve their problems. I also want to keep learning new things about web development so I can stay up-to-date with the latest trends. Overall, I want to make a positive impact in the world of digital design and help make the internet a better place for everyone.
+        - In the long run, I want to become really good at building websites and apps, focusing on making them look great and easy to use. I aim to lead teams and work on exciting projects where I can use my skills to create amazing stuff that will help people solve their problems. I also want to keep learning new things about web development so I can stay up-to-date with the latest trends. Overall, I want to make a positive impact in the world of digital design and help make the internet a better place for everyone.
 
     - Describe how these align with your interests and skills.
-        My long-term career aspirations align perfectly with my interests and skills. I'm passionate about technology and love creating solutions for problems, which is exactly what front-end development allows me to do. With my technical skills in HTML, CSS, and basic JavaScript, I can already build basic websites and applications. As I continue to grow in this field, I'll be able to create more advanced and visually appealing designs, matching my interest in making things look great and easy to use. Additionally, my values of respect, integrity, innovation, collaboration, and continuous learning will guide me in working effectively with teams, leading projects, and staying updated with the latest developments in front-end development. Overall, pursuing a career in front-end development is a natural fit for my interests and skills, enabling me to contribute meaningfully to the digital world while fulfilling my professional goals.
+        - My long-term career aspirations align perfectly with my interests and skills. I'm passionate about technology and love creating solutions for problems, which is exactly what front-end development allows me to do. With my technical skills in HTML, CSS, and basic JavaScript, I can already build basic websites and applications. As I continue to grow in this field, I'll be able to create more advanced and visually appealing designs, matching my interest in making things look great and easy to use. Additionally, my values of respect, integrity, innovation, collaboration, and continuous learning will guide me in working effectively with teams, leading projects, and staying updated with the latest developments in front-end development. Overall, pursuing a career in front-end development is a natural fit for my interests and skills, enabling me to contribute meaningfully to the digital world while fulfilling my professional goals.
 
 ### Part 4: Action Plan
 
