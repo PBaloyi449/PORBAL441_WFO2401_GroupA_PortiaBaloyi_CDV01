@@ -26,29 +26,29 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
-        Accounting Principles
-        Financial Analysis
-        Taxation
-        Financial Reporting
-        Comminication Skills
-        Problem-solving Skills
-        Attention to Detail
-        HTML
-        CSS
-        Basic Javascript
-        Responsive Web Design
+        - Accounting Principles
+        - Financial Analysis
+        - Taxation
+        - Financial Reporting
+        - Comminication Skills
+        - Problem-solving Skills
+        - Attention to Detail
+        - HTML
+        - CSS
+        - Basic Javascript
+        - Responsive Web Design
 
     - Identify skills you need to develop or improve.
-        JavaScript
-        Version Control
-        Front-End Frameworks
-        Cross-Browser Compatibility
-        Debugging and Testing
-        Performance Optimization
-        Build Tools and Task Runners
-        Time Management
-        Adaptability
-        Creativity
+        - JavaScript
+        - Version Control
+        - Front-End Frameworks
+        - Cross-Browser Compatibility
+        - Debugging and Testing
+        - Performance Optimization
+        - Build Tools and Task Runners
+        - Time Management
+        - Adaptability
+        - Creativity
 
 2. **Interests and Values**:
     
