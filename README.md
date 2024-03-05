@@ -144,12 +144,12 @@ By completing this reflection, you will gain a clearer understanding of your car
         5. Career Planning: I set goals for where I want to be in my career and create a plan for how to get there. I think about what roles I want to work towards and what steps I need to take to reach them.
 
     - Consider additional skills, experiences, or qualifications needed.
-        UI/UX Design
-        Testing and Debugging
-        Project Management
-        Continuous Integration/Continuous Deployment (CI/CD)
-        Certified Front End Developer (CFED) Certificate
-        Google's Mobile Web Specialist certification
+        - UI/UX Design
+        - Testing and Debugging
+        - Project Management
+        - Continuous Integration/Continuous Deployment (CI/CD)
+        - Certified Front End Developer (CFED) Certificate
+        - Google's Mobile Web Specialist certification
 
 ### Part 5: Reflection on Challenges and Opportunities
 
